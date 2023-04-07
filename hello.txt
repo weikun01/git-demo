@@ -6,4 +6,4 @@ hello weikun!
 hello weikun!
 hello weikun!
 hello weikun! master test
-hello weikun!
+hello weikun! hot=fix
